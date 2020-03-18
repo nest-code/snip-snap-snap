@@ -1,0 +1,4 @@
+1. Narcissistic Number
+2. Parity Outlier
+3. Needle in a Haystack
+4. The Blue Ocean Reverse
